@@ -1,4 +1,5 @@
 # 3DPeople-Dataset
+### [[Project]](https://www.albertpumarola.com/research/3DPeople/index.html) [[Paper]](https://arxiv.org/abs/1904.04571) [[Dataset]](https://cv.iri.upc-csic.es/)
 First dataset of dressed humans with specific geometry representation for the clothes. It contains ~2 Million images with 40 male/40 female performing 70 actions. Every subject-action sequence is captured from 4 camera views and annotated with: RGB, 3D skeleton, body part and cloth segmentation masks, depth map, optical flow, and camera parameters.
 
 ![GANimation](https://cv.iri.upc-csic.es/images/teaser_v3_lr.png)
@@ -8,7 +9,7 @@ First dataset of dressed humans with specific geometry representation for the cl
 * Test:  woman34-woman40  man34-man40
 
 ### Visualize data:
-Download jupyter notebook. You can use the [sample dataset](https://cv.iri.upc-csic.es/Dataset/3DPeople_sample.tar.xz).
+Download jupyter notebook. You can use the [sample dataset](https://cv.iri.upc-csic.es/Dataset/3DPeople_sample.tar.xz). Full dataset can be download in the [dataset website](https://cv.iri.upc-csic.es/).
 ```
 conda create -n 3dpeople
 source activate 3dpeople
