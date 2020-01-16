@@ -2,6 +2,8 @@
 ### [[Project]](https://www.albertpumarola.com/research/3DPeople/index.html) [[Paper]](https://arxiv.org/abs/1904.04571) [[Dataset]](https://cv.iri.upc-csic.es/)
 First dataset of dressed humans with specific geometry representation for the clothes. It contains ~2 Million images with 40 male/40 female performing 70 actions. Every subject-action sequence is captured from 4 camera views and annotated with: RGB, 3D skeleton, body part and cloth segmentation masks, depth map, optical flow, and camera parameters.
 
+We can NOT share the 3D meshes nor raw files of the models for copyright reasons. The actions used are from the CMU MoCap database.
+
 ![GANimation](https://cv.iri.upc-csic.es/images/teaser_v3_lr.png)
 
 ### Train/Test Splits:
